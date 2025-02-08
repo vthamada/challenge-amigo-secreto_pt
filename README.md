@@ -44,9 +44,28 @@ Este é um projeto de Amigo Secreto desenvolvido utilizando **HTML, CSS e JavaSc
 ## Como Usar
 
 1. Digite o nome de um participante no campo de entrada.
+
+
+![image](https://github.com/user-attachments/assets/fb4f9532-9707-4bcc-bfb2-ed164ab11011)
+
+
 2. Clique no botão "Adicionar" para inserir o nome na lista.
+
+
+![image](https://github.com/user-attachments/assets/9cf0c212-acf5-4d2c-a5d6-0026bbba9156)
+
+
 3. Para sortear um amigo secreto, clique no botão "Sortear amigo".
+
+
+![image](https://github.com/user-attachments/assets/41643c37-5bd1-47dd-96ef-adae6ea0393b)
+
+
 4. O nome sorteado será exibido na tela.
+
+
+![image](https://github.com/user-attachments/assets/528a4f75-17f5-4e9e-9d01-c6d4a169fe57)
+
 
 ## Contribuição
 
