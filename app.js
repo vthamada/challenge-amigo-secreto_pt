@@ -21,3 +21,14 @@ function atualizarListaAmigos(){
         listaAmigos.appendChild(item);
     }
 }
+
+function sortearAmigo(){
+    if (amigos.length == 0) {
+        alert('Por favor, insira um nome.');
+    } else {
+        let amigoSorteado = amigos[Math.floor(Math.random() * amigos.length)];
+        listaAmigos = document.getElementById('listaAmigos');
+        listaAmigos.innerHTML = '';
+        document.getElementById('resultado').textContent = `O amigo secreto sorteado é: ${amigoSorteado}`;
+    }
+}
